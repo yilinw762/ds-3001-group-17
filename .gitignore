@@ -4,9 +4,13 @@ env/
 .env/
 
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
 
 .ipynb_checkpoints/
+.jupyter/
 
 # macOS files
 .DS_Store
