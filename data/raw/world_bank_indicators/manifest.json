@@ -1,0 +1,18 @@
+{
+  "provider": "World Bank World Development Indicators",
+  "retrieved_utc": "2026-10-26T15:06:08.795422+00:00",
+  "years": [
+    2000,
+    2020
+  ],
+  "indicators": {
+    "co2_pc": "EN.GHG.CO2.PC.CE.AR5",
+    "gdp_pc": "NY.GDP.PCAP.KD",
+    "fossil_pct": "EG.USE.COMM.FO.ZS",
+    "renewable_pct": "EG.FEC.RNEW.ZS",
+    "energy_intensity": "EG.EGY.PRIM.PP.KD",
+    "industry_pct": "NV.IND.TOTL.ZS",
+    "urban_pct": "SP.URB.TOTL.IN.ZS"
+  },
+  "note": "Date reflects this run; cached files may have been downloaded earlier."
+}
